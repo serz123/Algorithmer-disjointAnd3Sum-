@@ -1,7 +1,6 @@
 # Algorithmer - Disjoint And 3Sum 
-![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) **Java**: For implementing the algorithms.
-![JFreeChart](https://img.icons8.com/color/48/000000/graph.png) **JFreeChart**: For visualizing algorithm performance through graphs.
-![JUnit](https://img.icons8.com/external-flat-juicy-fish/50/000000/external-junit-testing-tools-flat-flat-juicy-fish.png) 
+![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) 
+![JFreeChart](https://img.icons8.com/color/48/000000/graph.png) 
 
 
 Run the `Main` class to demonstrate the algorithms.
